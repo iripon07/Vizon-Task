@@ -16,6 +16,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 20px 0;
+  margin-bottom: 120px;
 }
 
 nav img {
@@ -29,7 +30,6 @@ nav img {
   text-decoration: none;
   color: white;
   font-size: 20px;
-  background-color: black;
 }
 
 /* nav styles */
